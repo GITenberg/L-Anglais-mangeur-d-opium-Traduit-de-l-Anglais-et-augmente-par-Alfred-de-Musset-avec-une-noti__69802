@@ -1,0 +1,54 @@
+_repo: L-Anglais-mangeur-d-opium-Traduit-de-l-Anglais-et-augmente-par-Alfred-de-Musset-avec-une-noti__69802
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Heulhard, Arthur
+    gutenberg_agent_id: '55429'
+    url: http://www.gutenberg.org/2009/agents/55429
+  translator:
+    agent_name: Musset, Alfred de
+    aliases:
+    - De Musset, Alfred
+    - DeMusset, Alfred
+    - Musset, Louis Charles Alfred de
+    birthdate: 1810
+    deathdate: 1857
+    gutenberg_agent_id: '1341'
+    url: http://www.gutenberg.org/2009/agents/1341
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alfred_de_Musset
+    - https://fr.wikipedia.org/wiki/Alfred_de_Musset
+creator:
+  author:
+    agent_name: De Quincey, Thomas
+    aliases:
+    - Quincey, Thomas de
+    - Quincy, Thomas de
+    - Kvinsi, Tomas de
+    - DeQuincey, Thomas
+    birthdate: 1785
+    deathdate: 1859
+    gutenberg_agent_id: '797'
+    url: http://www.gutenberg.org/2009/agents/797
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_De_Quincey
+description: ''
+gutenberg_issued: '2023-01-14'
+identifiers:
+  gutenberg: '69802'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k30408362
+pgterms:marc905: 20220125131023quincey
+pgterms:marc906: '1878'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: 'France: Le Moniteur du Bibliophile,1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'L''Anglais mangeur d''opium: Traduit de l''Anglais et augmenté par Alfred
+  de Musset, avec une notice par M. Arthur Heulhard'
+url: http://www.gutenberg.org/ebooks/69802
